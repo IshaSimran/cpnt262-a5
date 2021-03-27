@@ -6,6 +6,8 @@ By Isha Simran
 
 - [Heroku App Link](https://cpnt262-a5-isha.herokuapp.com/)
 
+Okay so I have no clue where I went wrong with this, I can't get it to deploy through heroku or mongoose. However, I am hoping to recieve partial marks for the code I am handing in.
+
 ## Attributions
 
 ### Images
